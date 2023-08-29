@@ -1,5 +1,5 @@
 # Mocha
-A auto-clicker that's currently being worked on by me. The project was started around the end of August 2023, and the first version was worked on and completed within 3 hours.
+A auto-clicker that's currently being worked on by me. The project was started around the end of August 2023. Current version is V1.0
 
 # Features:
 - Easy-to-use, Mouse click to mark the autoclicker start
@@ -23,3 +23,7 @@ NOTE: Program will close when there is a syntax error, currently being fixed
 - Conversion of the program into C#
 - Keyboard auto-clicker
 - Graphic User Interface
+
+# Version Log
+<b>V1.0 - 27/8/2023</b>
+
