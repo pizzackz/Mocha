@@ -20,9 +20,7 @@ NOTE: Program will close when there is a syntax error, currently being fixed
 # In Development
 - Further Customisation Settings (E.g. Being able to adjust the interval timings between 2 clicks)
 - Pause and Resume Function 
-- Conversion of the program into C#
 - Keyboard auto-clicker
-- Graphic User Interface
 
 # Version Log
 <b>V1.0 - 27/8/2023</b>
